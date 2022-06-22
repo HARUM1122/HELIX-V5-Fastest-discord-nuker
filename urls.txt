@@ -1,0 +1,17 @@
+ ______________________________________To nuke discord servers______________________________________
+| Get members: https://discord.com/api/v9/guilds/[GUILD_ID]/members?limit=1000 [GET REQUESTS]       |
+| Get channels: https://discord.com/api/v9/guilds/[GUILD_ID]/channels [GET REQUESTS]                |
+| Get roles: https://discord.com/api/v9/guilds/[GUILD_ID]/roles [GET REQUESTS]                      |
+| Get emojis: https://discord.com/api/v9/guilds/[GUILD_ID]/emojis [GET REQUESTS]                    |
+| Get webhooks: https://discord.com/api/v9/guilds/[GUILD_ID]/webhooks [GET REQUESTS]                |
+| Get messages: https://discord.com/api/v9/channels/[CHANNEL_ID]/messages [GET REQUESTS]            |
+| ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      |
+| Ban members: https://discord.com/api/v9/guilds/[GUILD_ID]/bans/[MEMBER_ID] [PUT REQUESTS]         |
+| Kick members: https://discord.com/api/v9/guilds/[GUILD_ID]/members/[MEMBER_ID] [DELETE REQUESTS]  |
+| Delete channels: https://discord.com/api/v9/channels/[CHANNEL_ID] [DELETE REQUESTS]               |
+| Delete roles: https://discord.com/api/v9/guilds/[GUILD_ID]/roles/[ROLE_ID] [DELETE REQUESTS]      |
+| Spam channels: https://discord.com/api/v9/guilds/[GUILD_ID]/channels [POST REQUESTS]              |
+| Spam roles: https://discord.com/api/v9/guilds/[GUILD_ID]/roles [POST REQUESTS]                    |
+| Delete emojis: https://discord.com/api/v9/guilds/[GUILD_ID]/emojis/[EMOJI_ID] [DELETE REQUESTS]   |
+| Delete webhooks: https://discord.com/api/v9/webhooks/[WEBHOOK_ID] [DELETE REQUESTS]               |
+|___________________________________________________________________________________________________|
